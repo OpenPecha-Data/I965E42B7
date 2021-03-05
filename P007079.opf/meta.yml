@@ -1,15 +1,16 @@
-id: opecha:P007079
+id: P007079
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18157
   title: སྨན་སྦྱོར་བདུད་རྩིའི་ཐིག་ལེ།
-  volume:
+  author: ''
+  volumes:
     4ea4cd18b5434006a41b7b91fdc542a9:
       image_group_id: I8LS18177
       title: Volume 1 of sman sbyor bdud rtsi'i thig le/
       volume_number: 1
       total_pages: 27
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྨན་སྦྱོར་བདུད་རྩིའི་ཐིག་ལེ།
   author: ''
